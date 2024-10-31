@@ -10,4 +10,4 @@ Some say she collects candy to keep warm or as fuel for her cauldron fires. Othe
 
 ## Offerings
 
-Children leave their candy in snowdrifts or by the bases of pine trees, often wrapping it in white or silver cloth so it blends with the snow. In return, they might find a snowflake charm, a smooth "ice stone," or a tiny carved animal made of frosted glass.
+Children leave their candy in snowdrifts or by the bases of pine trees, often wrapping it in white or silver cloth so it blends with the snow. In return, they might find a [[Snowflake Charm]], a smooth [[Ice Stone]], or a tiny [[Frosted Glass Animal Figure|carved animal made of frosted glass]].

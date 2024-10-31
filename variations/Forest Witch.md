@@ -2,7 +2,7 @@
 
 ## Description
 
-The Forest Witch is thought to live in the heart of an ancient forest, where trees are thick, and sunlight barely reaches the ground. Her house is said to be a hollowed-out tree or a hidden cottage, covered in vines and almost invisible to the untrained eye. On Halloween, children report seeing fleeting shadows among the trees and hearing rustling leaves even when the wind is still.
+The Forest Witch is thought to live in the heart of an ancient forest, where trees are thick, and sunlight barely reaches the ground. Her house is said to be a hollowed-out tree or a hidden cottage, covered in vines and almost invisible to the untrained eye. On [[Halloween]], children report seeing fleeting shadows among the trees and hearing rustling leaves even when the wind is still.
 
 ## Lore
 
@@ -10,4 +10,4 @@ She’s said to need the candy as an offering to the forest spirits or to brew p
 
 ## Offerings
 
-Children leave their candy in a small basket hung from a tree branch, decorated with leaves, acorns, and pine cones. In return, they might find a small "enchanted" stone, a feather, or even a piece of bark with mysterious runes carved into it, believed to bring good luck or protection.
+Children leave their candy in a small basket hung from a tree branch, decorated with leaves, acorns, and pine cones. In return, they might find a small [[Enchanted Stone]], a feather, or even a [[Runestone Bark|piece of bark with mysterious runes carved into it]], believed to bring good luck or protection.
